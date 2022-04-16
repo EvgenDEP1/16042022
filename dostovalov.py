@@ -2,7 +2,7 @@ def exam(first, second):
     addition = first + second
     multiplication = first * second
     print(addition, multiplication)
-    return
+    # return
 
 
 exam(2, 2)
